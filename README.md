@@ -1,4 +1,4 @@
-# 🍎 Federated Learning Benchmark on ImageNet with FedAvg and FedProx
+# Federated Learning Benchmark on ImageNet with FedAvg and FedProx
 
 ## 🌟 Project Overview
 
